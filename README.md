@@ -6,7 +6,7 @@ We provide a sample app using Node.js that you can deploy on App Platform. These
 
 ### Requirements
 
-* You need a DigitalOcean account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new.
+* You need a DigitalOceana account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new.
 
 ## Deploying the App
 
